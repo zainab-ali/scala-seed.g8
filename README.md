@@ -1,2 +1,2 @@
 # scala-seed.g8
-scala seed for TLS project
+[![Build Status](https://travis-ci.org/yilinwei/scala-seed.g8.svg?branch=master)](https://travis-ci.org/yilinwei/scala-seed.g8)
