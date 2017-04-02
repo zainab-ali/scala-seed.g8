@@ -21,8 +21,8 @@ lazy val commonResolvers = Seq(
 lazy val buildSettings = Seq(
   scalaOrganization := "org.typelevel",
   scalaVersion := "2.12.1",
-  name := "$project$",
-  version := "0.1.0-SNAPSHOT"
+  name := "$name$",
+  version := "$version$-SNAPSHOT"
 )
 
 lazy val catsVersion = "0.9.0"
